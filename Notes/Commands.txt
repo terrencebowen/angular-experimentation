@@ -1,0 +1,9 @@
+Create Application
+ng new ApplicationName
+
+Build Application
+ng build
+
+Open Application
+ng serve --open
+ng serve
